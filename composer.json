@@ -1,0 +1,16 @@
+{
+  "name": "dssource/clients",
+  "description": "DS-CMS basic version, used Yii2 Framework",
+  "keywords": ["yii2", "framework", "basic", "project template", "cms"],
+  "homepage": "https://digital-solution.ru",
+  "type": "project",
+  "license": "BSD-3-Clause",
+  "support": {
+    "source": "https://github.com/dssource/clients"
+  },
+  "autoload": {
+    "psr-4": {
+      "dssource\\clients\\": "/"
+    }
+  }
+}
